@@ -1,6 +1,6 @@
-Just another todolist
+Just another todolist (front - react, back - express)
 
-[Demo on heroku](https://cotang-todo-front.herokuapp.com/)
+[Demo on heroku](https://cotang-todo-react-express.herokuapp.com/)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
